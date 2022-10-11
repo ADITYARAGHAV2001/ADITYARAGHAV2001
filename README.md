@@ -1,5 +1,7 @@
+<div align = "center">
 <h1 align = "center"> Hello, I am Aditya</h1>
 
+<img src = "https://media0.giphy.com/media/4OBq5v6J4pgJuZ2Cnj/giphy.gif?cid=ecf05e47r6d8f1ox0jzan1uk8m37tq3e06vs0iix69saqgy8&rid=giphy.gif&ct=g" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_addy_raghav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-56bbb6223) 
@@ -16,3 +18,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ADITYARAGHAV2001&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+  </div>
